@@ -1,10 +1,10 @@
 clash订阅:
-- https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
+- https://gist.github.com/go4sharing/00a43d059ef6cfd254fc619a565ef82b/raw/ec08a227887ff656d34c7c6a2988d1dcc3005a96/gistfile1.txt
 - https://sni.111000.dynv6.net/sub
 - https://sni.111000.dynv6.net/sub?clash
-- https://gist.github.com/go4sharing/00a43d059ef6cfd254fc619a565ef82b/raw/ec08a227887ff656d34c7c6a2988d1dcc3005a96/gistfile1.txt
-- https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 - https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
+- https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
+- https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 v2订阅:
 - https://sub.scpnb.top/base64
 - https://iuiu.lovebabyforever.workers.dev/
