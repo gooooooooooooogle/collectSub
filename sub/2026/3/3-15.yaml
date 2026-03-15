@@ -2,14 +2,20 @@ clash订阅:
 - https://sni.111000.dynv6.net/sub
 - https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 - https://gist.github.com/go4sharing/00a43d059ef6cfd254fc619a565ef82b/raw/ec08a227887ff656d34c7c6a2988d1dcc3005a96/gistfile1.txt
+- https://proxypool.dmit.dpdns.org/clash/proxies
+- https://proxypool.dmit.dpdns.org/clash/proxies?nstream=netflix,disney&amp;nc=CA&amp;type=ss,vmess,vless
 - https://sni.111000.dynv6.net/sub?clash
 - https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
-- https://proxypool.dmit.dpdns.org/clash/proxies
-- https://proxypool.dmit.dpdns.org/clash/proxies?c=CN,HK,TW,SG,JP,KR,VN&amp;speed=1&amp;type=ss
-- https://proxypool.dmit.dpdns.org/clash/proxies?nstream=netflix,disney&amp;nc=CA&amp;type=ss,vmess,vless
 - https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
+- https://proxypool.dmit.dpdns.org/clash/proxies?c=CN,HK,TW,SG,JP,KR,VN&amp;speed=1&amp;type=ss
 v2订阅:
-- https://sub.scpnb.top/base64
 - https://iuiu.lovebabyforever.workers.dev/
-开心玩耍: []
-机场订阅: []
+- https://sub.scpnb.top/base64
+开心玩耍:
+- 可用流量:94.29 GB                    http://154.17.23.118:3385/api/v1/client/subscribe?token=8465a38a35b10035f83923ed136e52d1
+- 可用流量:62.34 GB                    https://mojie.app/api/v1/client/subscribe?token=6946bbd30385d2e1a77b88025463a40e
+- 可用流量:102.44 GB                    https://mojie.app/api/v1/client/subscribe?token=dfc645ef2d5071e1ad263d15f6f22a0a
+机场订阅:
+- https://mojie.app/api/v1/client/subscribe?token=dfc645ef2d5071e1ad263d15f6f22a0a
+- http://154.17.23.118:3385/api/v1/client/subscribe?token=8465a38a35b10035f83923ed136e52d1
+- https://mojie.app/api/v1/client/subscribe?token=6946bbd30385d2e1a77b88025463a40e
