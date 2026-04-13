@@ -1,16 +1,22 @@
 clash订阅:
-- https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-- https://proxypool.dmit.dpdns.org/clash/proxies?nstream=netflix,disney&amp;nc=CA&amp;type=ss,vmess,vless
 - https://sni.111000.dynv6.net/sub
+- https://proxypool.dmit.dpdns.org/clash/proxies?nstream=netflix,disney&amp;nc=CA&amp;type=ss,vmess,vless
+- https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 - https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 - https://proxypool.dmit.dpdns.org/clash/proxies
-- https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
-- https://sni.111000.dynv6.net/sub?clash
-- https://proxypool.dmit.dpdns.org/clash/proxies?c=CN,HK,TW,SG,JP,KR,VN&amp;speed=1&amp;type=ss
 - https://pai.yt/clash
+- https://sni.111000.dynv6.net/sub?clash
+- https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
+- https://proxypool.dmit.dpdns.org/clash/proxies?c=CN,HK,TW,SG,JP,KR,VN&amp;speed=1&amp;type=ss
 v2订阅:
 - https://sub.scpnb.top/base64
 - https://pai.yt/base64
 - https://iuiu.lovebabyforever.workers.dev/
-开心玩耍: []
-机场订阅: []
+开心玩耍:
+- 可用流量:83.45 GB                    https://userid.moviecloud.sbs/movie/96742bf89bdfc226cd9e2a6eaa598315
+- 可用流量:97.93 GB                    https://userid.moviecloud.sbs/movie/cbe73d3e23526b4c07d88af0b794ce93
+- 可用流量:243.46 GB                    https://rssstarlink.ei38d3if3.xyz/s/4a75070c6cb03b84b814bbd700af768c
+机场订阅:
+- https://userid.moviecloud.sbs/movie/96742bf89bdfc226cd9e2a6eaa598315
+- https://userid.moviecloud.sbs/movie/cbe73d3e23526b4c07d88af0b794ce93
+- https://rssstarlink.ei38d3if3.xyz/s/4a75070c6cb03b84b814bbd700af768c
