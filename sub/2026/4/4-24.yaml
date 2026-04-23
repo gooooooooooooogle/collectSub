@@ -1,38 +1,35 @@
 clash订阅:
+- https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 - https://proxypool.dmit.dpdns.org/clash/proxies?nstream=netflix,disney&amp;nc=CA&amp;type=ss,vmess,vless
+- https://sni.111000.dynv6.net/sub
+- https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 - https://sni.111000.dynv6.net/sub?clash
 - https://pai.yt/clash
-- https://pai.yt/clash?preset=other
-- https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-- https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-- https://sni.111000.dynv6.net/sub
+- https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
 - https://proxypool.dmit.dpdns.org/clash/proxies
 - https://proxypool.dmit.dpdns.org/clash/proxies?c=CN,HK,TW,SG,JP,KR,VN&amp;speed=1&amp;type=ss
-- https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
+- https://pai.yt/clash?preset=other
 v2订阅:
-- https://pai.yt/base64
-- https://pai.yt/base64?preset=other
 - https://iuiu.lovebabyforever.workers.dev/
+- https://pai.yt/base64
 - https://sub.scpnb.top/base64
+- https://pai.yt/base64?preset=other
 开心玩耍:
-- 可用流量:61.22 GB                    https://47.112.97.173:5000/api/v1/client/subscribe?token=f2ced60653d32a7c89a1bb6bea36d615
-- 可用流量:7001.84 GB                    https://aoe.o.eoa.ccwu.cc/o
-- 可用流量:274.41 GB                    https://47.112.97.173:5000/api/v1/client/subscribe?token=31c915cb5e387de630f9c693ffc719ea
-- 可用流量:404.71 GB                    https://47.112.97.173:5000/api/v1/client/subscribe?token=32cb265158b5a8ce5c3c459abe8a3287
-- 可用流量:133.58 GB                    https://UqYEryVb.doggygosubs.com:8443/api/v1/client/1ad44caa0585937ac56db6c22546e266
-- 可用流量:56.18 GB                    https://47.112.97.173:5000/api/v1/client/subscribe?token=734daff169a6a0228e572f3d8f7f646b
-- 可用流量:98622.37 GB                    https://download.8886698.xyz/api/v1/client/subscribe?token=211a780c0135fca07b8f2049ad174828
-- 可用流量:228.16 GB                    https://47.242.128.61:5000/api/v1/client/subscribe?token=c192b34326977efd1c742fe9feb4684e
-- 可用流量:89.67 GB                    https://47.112.97.173:5000/api/v1/client/subscribe?token=1ed28cba8fba978a354ee1b3a257e86a
-- 可用流量:89.51 GB                    https://47.112.97.173:5000/api/v1/client/subscribe?token=d31bf4c2297cac94f745fdbce0def5be
+- 可用流量:98267.46 GB                    https://download.8886698.xyz/api/v1/client/subscribe?token=211a780c0135fca07b8f2049ad174828
+- 可用流量:253.74 GB                    https://47.112.97.173:5000/api/v1/client/subscribe?token=31c915cb5e387de630f9c693ffc719ea
+- 可用流量:79.19 GB                    https://UqYEryVb.doggygosubs.com:8443/api/v1/client/1ad44caa0585937ac56db6c22546e266
+- 可用流量:27.39 GB                    https://47.112.97.173:5000/api/v1/client/subscribe?token=d31bf4c2297cac94f745fdbce0def5be
+- 可用流量:3365.48 GB                    https://aoe.o.eoa.ccwu.cc/o
+- 可用流量:12.71 GB                    https://47.112.97.173:5000/api/v1/client/subscribe?token=1ed28cba8fba978a354ee1b3a257e86a
+- 可用流量:230.85 GB                    https://47.112.97.173:5000/api/v1/client/subscribe?token=32cb265158b5a8ce5c3c459abe8a3287
 机场订阅:
-- https://47.112.97.173:5000/api/v1/client/subscribe?token=32cb265158b5a8ce5c3c459abe8a3287
-- https://47.112.97.173:5000/api/v1/client/subscribe?token=31c915cb5e387de630f9c693ffc719ea
-- https://47.112.97.173:5000/api/v1/client/subscribe?token=d31bf4c2297cac94f745fdbce0def5be
 - https://47.112.97.173:5000/api/v1/client/subscribe?token=734daff169a6a0228e572f3d8f7f646b
-- https://UqYEryVb.doggygosubs.com:8443/api/v1/client/1ad44caa0585937ac56db6c22546e266
-- https://47.112.97.173:5000/api/v1/client/subscribe?token=1ed28cba8fba978a354ee1b3a257e86a
 - https://47.112.97.173:5000/api/v1/client/subscribe?token=f2ced60653d32a7c89a1bb6bea36d615
+- https://47.112.97.173:5000/api/v1/client/subscribe?token=31c915cb5e387de630f9c693ffc719ea
 - https://download.8886698.xyz/api/v1/client/subscribe?token=211a780c0135fca07b8f2049ad174828
+- https://47.112.97.173:5000/api/v1/client/subscribe?token=1ed28cba8fba978a354ee1b3a257e86a
+- https://47.112.97.173:5000/api/v1/client/subscribe?token=32cb265158b5a8ce5c3c459abe8a3287
 - https://aoe.o.eoa.ccwu.cc/o
+- https://UqYEryVb.doggygosubs.com:8443/api/v1/client/1ad44caa0585937ac56db6c22546e266
+- https://47.112.97.173:5000/api/v1/client/subscribe?token=d31bf4c2297cac94f745fdbce0def5be
 - https://47.242.128.61:5000/api/v1/client/subscribe?token=c192b34326977efd1c742fe9feb4684e
