@@ -1,22 +1,21 @@
 clash订阅:
-- https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-- https://pai.yt/clash?preset=other
-- https://proxypool.dmit.dpdns.org/clash/proxies?c=CN,HK,TW,SG,JP,KR,VN&amp;speed=1&amp;type=ss
-- https://sni.111000.dynv6.net/sub?clash
-- https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 - https://sni.111000.dynv6.net/sub
-- https://proxypool.dmit.dpdns.org/clash/proxies?nstream=netflix,disney&amp;nc=CA&amp;type=ss,vmess,vless
-- https://proxypool.dmit.dpdns.org/clash/proxies
+- https://sni.111000.dynv6.net/sub?clash
+- https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
+- https://proxypool.dmit.dpdns.org/clash/proxies?c=CN,HK,TW,SG,JP,KR,VN&amp;speed=1&amp;type=ss
 - https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
+- https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
+- https://pai.yt/clash?preset=other
+- https://proxypool.dmit.dpdns.org/clash/proxies
+- https://proxypool.dmit.dpdns.org/clash/proxies?nstream=netflix,disney&amp;nc=CA&amp;type=ss,vmess,vless
 v2订阅:
 - https://sub.scpnb.top/base64
 - https://pai.yt/base64?preset=other
 - https://iuiu.lovebabyforever.workers.dev/
 开心玩耍:
 - 可用流量:3991.81 GB                    https://dash.djjc.cfd/api/v1/client/subscribe?token=c1c0bd4752d4ea34e82064a8469ce72f
-- 可用流量:96.68 GB                    https://139.196.241.76:18181/api/v1/client/subscribe?token=018fca6b23841628587bbfbbc2dd0842
 机场订阅:
-- https://sub.xnyun.wiki/xxntoken=/b3adce8dcecf7ac05452ee5dfca0e7ae
-- https://dash.djjc.cfd/api/v1/client/subscribe?token=c1c0bd4752d4ea34e82064a8469ce72f
-- https://139.196.241.76:18181/api/v1/client/subscribe?token=018fca6b23841628587bbfbbc2dd0842
 - https://www7th.ga-sub.hair/api/v1/client/subscribe?token=327c174bc48b232d3871c6ffb3f8a25d
+- https://139.196.241.76:18181/api/v1/client/subscribe?token=018fca6b23841628587bbfbbc2dd0842
+- https://dash.djjc.cfd/api/v1/client/subscribe?token=c1c0bd4752d4ea34e82064a8469ce72f
+- https://sub.xnyun.wiki/xxntoken=/b3adce8dcecf7ac05452ee5dfca0e7ae
